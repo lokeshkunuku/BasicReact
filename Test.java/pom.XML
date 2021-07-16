@@ -1,0 +1,13 @@
+<dependencies>
+    <!-- <dependency> <groupId>com.github.lkuza2</groupId> <artifactId>java-speech-api</artifactId>
+        <version>v2.02</version> </dependency> -->
+    <dependency>
+        <groupId>com.github.goxr3plus</groupId>
+        <artifactId>java-google-speech-api</artifactId>
+        <version>V2.0</version>
+    </dependency>
+    <env-variables>
+        <env-var name="GOOGLE_APPLICATION_CREDENTIALS"
+                 value="WEB-INF/default-account-credentials.json" />
+    </env-variables>
+</dependencies>

@@ -19,10 +19,45 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../../React/json-simple-2.3.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../json-simple-2.3.0.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Downloads/google-api-translate-java-0.97.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/jar_files" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/jar_files" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/jar_files (1)" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/jar_files (1)" />
+        </SOURCES>
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files (1)" recursive="false" />
+        <jarDirectory url="file://$USER_HOME$/Downloads/jar_files (1)" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
   </component>
